@@ -1,4 +1,4 @@
 pandas
 plotly.express
 streamlit
-scikit-learn   
+sklearn.linear_model  
